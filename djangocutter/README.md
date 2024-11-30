@@ -2,7 +2,7 @@
 
 Behold My Awesome Project!
 
-[![Yapit](https://img.shields.io/badge/Generated_by-Yapit-1bafb5?style=flat-square&logo=django)](https://yapit.ai)
+[![Yapit](https://custom-icon-badges.demolab.com/badge/Generated_by-Yapit-blue.svg?logo=yapit)](https://yapit.ai)
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
